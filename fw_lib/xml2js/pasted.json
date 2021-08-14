@@ -1,0 +1,418 @@
+{
+  "tei-TEI": {
+    "$": {
+      "data-xmlns": "http://www.tei-c.org/ns/1.0",
+      "data-origname": "TEI",
+      "data-origatts": "xmlns"
+    },
+    "tei-teiHeader": [{ "$": { "data-origname": "teiHeader" } }],
+    "tei-text": [
+      {
+        "$": { "data-origname": "text" },
+        "tei-body": [
+          {
+            "_": "\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t[Page cut off at the bottom.]\n\t\t",
+            "$": { "data-origname": "body" },
+            "tei-pb": [
+              {
+                "$": {
+                  "n": "01",
+                  "facs": "sc203591",
+                  "data-origname": "pb",
+                  "data-origatts": "facs n",
+                  "data-empty": ""
+                }
+              }
+            ],
+            "tei-div": [
+              {
+                "$": {
+                  "type": "entry",
+                  "n": "1788-02-10",
+                  "data-origname": "div",
+                  "data-origatts": "n type"
+                },
+                "tei-head": [
+                  {
+                    "_": "\n\t\t\t\t\tFebruary 1788\n\t\t\t\t",
+                    "$": { "data-origname": "head" }
+                  }
+                ],
+                "tei-dateline": [
+                  {
+                    "$": { "data-origname": "dateline" },
+                    "tei-date": [
+                      {
+                        "_": "\n\t\t\t\t\t\t10th of the Second Month, 1788.\n\t\t\t\t\t",
+                        "$": {
+                          "when": "1788-02-10",
+                          "data-origname": "date",
+                          "data-origatts": "when"
+                        }
+                      }
+                    ]
+                  }
+                ],
+                "tei-p": [
+                  {
+                    "_": "\n\t\t\t\t\tWas First Day. Went\n\t\t\t\t\t\n\t\t\t\t\t[page missing] which was a solid favored time I think. Went to see\n\t\t\t\t\t\n\t\t\t\t\t.\n\t\t\t\t",
+                    "$": { "data-origname": "p" },
+                    "tei-persName": [
+                      {
+                        "_": "\n\t\t\t\t\t\tmy wife\n\t\t\t\t\t",
+                        "$": {
+                          "key": "w6wx87x7",
+                          "data-origname": "persName",
+                          "data-origatts": "key"
+                        }
+                      },
+                      {
+                        "_": "\n\t\t\t\t\t\tEnoch Evans\n\t\t\t\t\t",
+                        "$": {
+                          "key": "w6wt9jhx",
+                          "data-origname": "persName",
+                          "data-origatts": "key"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "$": {
+                  "type": "entry",
+                  "n": "1788-02-11",
+                  "data-origname": "div",
+                  "data-origatts": "n type"
+                },
+                "tei-dateline": [
+                  {
+                    "$": { "data-origname": "dateline" },
+                    "tei-date": [
+                      {
+                        "_": "\n\t\t\t\t\t\t11.\n\t\t\t\t\t",
+                        "$": {
+                          "when": "1788-02-11",
+                          "data-origname": "date",
+                          "data-origatts": "when"
+                        }
+                      }
+                    ]
+                  }
+                ],
+                "tei-p": [
+                  {
+                    "_": "\n\t\t\t\t\tAt work at screws for cheese press.\n\t\t\t\t",
+                    "$": { "data-origname": "p" }
+                  }
+                ]
+              },
+              {
+                "$": {
+                  "type": "entry",
+                  "n": "1788-02-12",
+                  "data-origname": "div",
+                  "data-origatts": "n type"
+                },
+                "tei-dateline": [
+                  {
+                    "$": { "data-origname": "dateline" },
+                    "tei-date": [
+                      {
+                        "_": "\n\t\t\t\t\t\t12.\n\t\t\t\t\t",
+                        "$": {
+                          "when": "1788-02-12",
+                          "data-origname": "date",
+                          "data-origatts": "when"
+                        }
+                      }
+                    ]
+                  }
+                ],
+                "tei-p": [
+                  {
+                    "_": "\n\t\t\t\t\tWas our weekday meeting. William Venable and Rachel Croshan was married.\n\t\t\t\t\t\n\t\t\t\t\twas there and I think it was lively good meeting. I am ready to think the scoffer and gainsayer, if any was there, was put to silence.\n\t\t\t\t",
+                    "$": { "data-origname": "p" },
+                    "tei-persName": [
+                      {
+                        "_": "\n\t\t\t\t\t\tSolomon Gaskill\n\t\t\t\t\t",
+                        "$": {
+                          "key": "w63s1j4g",
+                          "data-origname": "persName",
+                          "data-origatts": "key"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "$": {
+                  "type": "entry",
+                  "n": "1788-02-13",
+                  "data-origname": "div",
+                  "data-origatts": "n type"
+                },
+                "tei-dateline": [
+                  {
+                    "$": { "data-origname": "dateline" },
+                    "tei-date": [
+                      {
+                        "_": "\n\t\t\t\t\t\t13.\n\t\t\t\t\t",
+                        "$": {
+                          "when": "1788-02-13",
+                          "data-origname": "date",
+                          "data-origatts": "when"
+                        }
+                      }
+                    ]
+                  }
+                ],
+                "tei-p": [
+                  {
+                    "_": "\n\t\t\t\t\tWent to make a pump for William Wright.\n\t\t\t\t\t\n\t\t\t\t\twent with us to\n\t\t\t\t\t\n\t\t\t\t\t.\n\t\t\t\t",
+                    "$": { "data-origname": "p" },
+                    "tei-persName": [
+                      {
+                        "_": "\n\t\t\t\t\t\tSolomon Gaskill\n\t\t\t\t\t",
+                        "$": {
+                          "key": "w63s1j4g",
+                          "data-origname": "persName",
+                          "data-origatts": "key"
+                        }
+                      },
+                      {
+                        "_": "\n\t\t\t\t\t\tJoshua Evans\n\t\t\t\t\t",
+                        "$": {
+                          "key": "w6c82qz0",
+                          "data-origname": "persName",
+                          "data-origatts": "key"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "$": {
+                  "type": "entry",
+                  "n": "1788-02-14",
+                  "data-origname": "div",
+                  "data-origatts": "n type"
+                },
+                "tei-dateline": [
+                  {
+                    "$": { "data-origname": "dateline" },
+                    "tei-date": [
+                      {
+                        "_": "\n\t\t\t\t\t\t14.\n\t\t\t\t\t",
+                        "$": {
+                          "when": "1788-02-14",
+                          "data-origname": "date",
+                          "data-origatts": "when"
+                        }
+                      }
+                    ]
+                  }
+                ],
+                "tei-p": [
+                  {
+                    "_": "\n\t\t\t\t\tWas weekday meeting at Newtown and Solomon and I was there. It was a pretty lively time.\n\t\t\t\t\t\n\t\t\t\t\thaving given notice of our being there, the meeting was larger than usual. Came off pretty well I hope. It was a time of favor and improvement to me. We finished Wright's pump, 10 feet long, boxes and all, comes to 26 Shillings.\n\t\t\t\t",
+                    "$": { "data-origname": "p" },
+                    "tei-persName": [
+                      {
+                        "_": "\n\t\t\t\t\t\tJoshua Evans\n\t\t\t\t\t",
+                        "$": {
+                          "key": "w6c82qz0",
+                          "data-origname": "persName",
+                          "data-origatts": "key"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "$": {
+                  "type": "entry",
+                  "n": "1788-02-15/1788-02-16",
+                  "data-origname": "div",
+                  "data-origatts": "n type"
+                },
+                "tei-dateline": [
+                  {
+                    "$": { "data-origname": "dateline" },
+                    "tei-date": [
+                      {
+                        "_": "\n\t\t\t\t\t\t15 and 16.\n\t\t\t\t\t",
+                        "$": {
+                          "from": "1788-02-15",
+                          "to": "1788-02-16",
+                          "data-origname": "date",
+                          "data-origatts": "to from"
+                        }
+                      }
+                    ]
+                  }
+                ],
+                "tei-p": [
+                  {
+                    "_": "\n\t\t\t\t\tVery stormy.\n\t\t\t\t\t\n\t\t\t\t\twas with us.\n\t\t\t\t",
+                    "$": { "data-origname": "p" },
+                    "tei-persName": [
+                      {
+                        "_": "\n\t\t\t\t\t\tSolomon Gaskill\n\t\t\t\t\t",
+                        "$": {
+                          "key": "w63s1j4g",
+                          "data-origname": "persName",
+                          "data-origatts": "key"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "$": {
+                  "type": "entry",
+                  "n": "1788-02-17",
+                  "data-origname": "div",
+                  "data-origatts": "n type"
+                },
+                "tei-dateline": [
+                  {
+                    "$": { "data-origname": "dateline" },
+                    "tei-date": [
+                      {
+                        "_": "\n\t\t\t\t\t\t17.\n\t\t\t\t\t",
+                        "$": {
+                          "when": "1788-02-17",
+                          "data-origname": "date",
+                          "data-origatts": "when"
+                        }
+                      }
+                    ]
+                  }
+                ],
+                "tei-p": [
+                  {
+                    "_": "\n\t\t\t\t\tWas First Day at our meeting.\n\t\t\t\t\t\n\t\t\t\t\twas there and I thought we came off pretty well, a favor.\n\t\t\t\t",
+                    "$": { "data-origname": "p" },
+                    "tei-persName": [
+                      {
+                        "_": "\n\t\t\t\t\t\tSolomon Gaskill\n\t\t\t\t\t",
+                        "$": {
+                          "key": "w63s1j4g",
+                          "data-origname": "persName",
+                          "data-origatts": "key"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "$": {
+                  "type": "entry",
+                  "n": "1788-02-18",
+                  "data-origname": "div",
+                  "data-origatts": "n type"
+                },
+                "tei-dateline": [
+                  {
+                    "$": { "data-origname": "dateline" },
+                    "tei-date": [
+                      {
+                        "_": "\n\t\t\t\t\t\t18.\n\t\t\t\t\t",
+                        "$": {
+                          "when": "1788-02-18",
+                          "data-origname": "date",
+                          "data-origatts": "when"
+                        }
+                      }
+                    ]
+                  }
+                ],
+                "tei-p": [
+                  {
+                    "_": "\n\t\t\t\t\tAbout home at work in the shop.\n\t\t\t\t",
+                    "$": { "data-origname": "p" }
+                  }
+                ]
+              },
+              {
+                "$": {
+                  "type": "entry",
+                  "n": "1788-02-19",
+                  "data-origname": "div",
+                  "data-origatts": "n type"
+                },
+                "tei-dateline": [
+                  {
+                    "$": { "data-origname": "dateline" },
+                    "tei-date": [
+                      {
+                        "_": "\n\t\t\t\t\t\t19.\n\t\t\t\t\t",
+                        "$": {
+                          "when": "1788-02-19",
+                          "data-origname": "date",
+                          "data-origatts": "when"
+                        }
+                      }
+                    ]
+                  }
+                ],
+                "tei-p": [
+                  {
+                    "_": "\n\t\t\t\t\tWas our weekday meeting. Joshua Stokes and Deborah Hooten was married.\n\t\t\t\t\t\n\t\t\t\t\twas favored and I had satisfaction. Came off bravely considering all things. Many spectators and a light company but I think I have seen since where it might have been better though no cause of complaint.\n\t\t\t\t",
+                    "$": { "data-origname": "p" },
+                    "tei-persName": [
+                      {
+                        "_": "\n\t\t\t\t\t\tSolomon Gaskill\n\t\t\t\t\t",
+                        "$": {
+                          "key": "w63s1j4g",
+                          "data-origname": "persName",
+                          "data-origatts": "key"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "$": {
+                  "type": "entry",
+                  "n": "1788-02-20/1788-02-23",
+                  "data-origname": "div",
+                  "data-origatts": "n type"
+                },
+                "tei-dateline": [
+                  {
+                    "$": { "data-origname": "dateline" },
+                    "tei-date": [
+                      {
+                        "_": "\n\t\t\t\t\t\t20:21:22:23.\n\t\t\t\t\t",
+                        "$": {
+                          "from": "1788-02-20",
+                          "to": "1788-02-23",
+                          "data-origname": "date",
+                          "data-origatts": "to from"
+                        }
+                      }
+                    ]
+                  }
+                ],
+                "tei-p": [
+                  {
+                    "_": "\n\t\t\t\t\tAbout home except visited D. Higbe. Joseph Thorington was to see us and Jo Buzby to Quarter.\n\t\t\t\t",
+                    "$": { "data-origname": "p" }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
